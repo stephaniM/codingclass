@@ -1,6 +1,7 @@
 .container{
   	width: 740px;
     margin: auto;
+    border-bottom: 5px;
 }
 
 .main-header{
