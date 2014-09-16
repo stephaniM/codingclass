@@ -1,0 +1,38 @@
+.container{
+  	width: 740px;
+    margin: auto;
+}
+.top-header{
+height:50px;
+color:#000000;
+
+}
+
+.main-header{
+	height: 100px;
+    color:#fff;
+    background:#FF99CC;
+}
+
+.main-content{
+	padding: 20px;
+	background: #FFFFFF;
+}
+
+.main-footer{
+	height:100px;
+	color: #FFF;
+	background: #222;
+}
+
+.base{
+	padding-top: 50px;
+	color: #fff;
+	text-align: center;
+	font-size: 24px;
+}
+
+.sidebar{
+     
+
+}
