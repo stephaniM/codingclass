@@ -3,7 +3,7 @@
     margin: auto;
 }
 .top-header{
-height:50px;
+height:200px;
 color:#000000;
 
 }
@@ -15,7 +15,7 @@ color:#000000;
 }
 
 .main-content{
-	padding: 20px;
+	padding: 200px;
 	background: #FFFFFF;
 }
 
@@ -35,4 +35,47 @@ color:#000000;
 .sidebar{
      
 
+}
+
+.box {
+  width: 200px;
+  height: 100px;
+  background-color: #333;
+  color: #fff;
+  border-radius: 15px;
+  position: relative;
+  padding: 10px;
+  box-sizing: border-box;
+  margin: 10px;
+  float: left;
+}
+
+.box-green{
+  background-color: green;
+}
+
+.box-blue{
+  background-color: blue;
+}
+
+.box-red {
+  background-color: red;
+}
+
+.box img {
+  position: absolute;
+  top: 20px;
+}
+
+.box h4, .box p {
+  margin-top: 0;
+  margin-left: 60px;
+}
+
+.box p {
+  font-size: 12px;
+}
+
+.box h4 {
+  margin-bottom: 10px;
 }
